@@ -1,0 +1,33 @@
+.form{
+    border-radius: 8px;
+  border: 1px solid #110707;
+  background-color: #032b2c;
+width: 100%;
+}
+
+.form label{
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin: 5px;
+    padding: 5px;
+}
+.form input{
+    border-radius: 8px;
+    border: 1px solid #110707;
+    padding: 5px;
+    margin: 5px;
+    width: 85%;
+}
+
+.form button{
+    border-radius: 8px;
+    border: 1px solid #110707;
+    margin: 5px;
+    width: 85%;
+    background-color: #01172c;
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
